@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Frederik Woloszynski</h1>
 <h3 align="center">A Software Engineer Student and ML enthusiast</h3>
 <br>
-<img align="right" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuixdtgG46zSOZ2Vx6whCy0BDim82KZakQ8A&s](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlhbG9hMjRxbjJncXFudWd0MnR6NDRkbWxxdHNtNHlqem96aTJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif)">
+<img align="right" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuixdtgG46zSOZ2Vx6whCy0BDim82KZakQ8A&s](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlhbG9hMjRxbjJncXFudWd0MnR6NDRkbWxxdHNtNHlqem96aTJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif">
 
 - 🔭 I’m currently working on a [Pseudo Code Compiler](https://github.com/SW4-G3-AAU/pseudocode)
 
