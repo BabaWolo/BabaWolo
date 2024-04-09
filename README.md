@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Frederik Woloszynski</h1>
 <h3 align="center">A Software Engineer Student and ML enthusiast</h3>
 <br>
-<img align="right" width="450" src="https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif">
+<img align="right" width="300" src="https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif">
 
 - 🔭 I’m currently working on a [Pseudo Code Compiler](https://github.com/SW4-G3-AAU/pseudocode)
 
