@@ -1,6 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Frederik Woloszynski</h1>
+<br>
 <h3 align="center">A Software Engineer Student and ML enthusiast</h3>
+<br>
 <img align="right" width="400" src="https://i.makeagif.com/media/8-01-2015/7gnlfT.gif">
 
 - 🔭 I’m currently working on a [Pseudo Code Compiler](https://github.com/SW4-G3-AAU/pseudocode)
