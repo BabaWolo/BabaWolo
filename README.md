@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on a [Pseudo Code Compiler](https://github.com/SW4-G3-AAU/pseudocode)
 
-- 🌱 I’m currently learning **PyTorch, Sci-kit Learn, and Tensorflow**
+- 🌱 I’m currently learning **Agile, SQL, and Language Modeling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BabaWolo?tab=repositories](https://github.com/BabaWolo?tab=repositories)
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **Frederikwoloszynski@hotmail.com**
 
